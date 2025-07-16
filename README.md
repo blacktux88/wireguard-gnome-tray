@@ -45,13 +45,6 @@ sudo apt install \
 ```bash
 python3 --version
 ```
-
-If it's not installed:
-
-```bash
-sudo apt install python3
-```
-
 ---
 
 ### 2. Clone this repository
