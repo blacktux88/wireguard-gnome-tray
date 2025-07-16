@@ -23,7 +23,7 @@ Built with Python and GTK3, this tray tool is designed for sysadmins and advance
 
 ---
 
-## 🛠️ Requirements
+### 🛠️ Requirements
 
 Install the following packages on your Linux system:
 
@@ -35,9 +35,11 @@ sudo apt install \
   gir1.2-appindicator3-0.1
 
 
-### ☕ Buy me a Coffee (via Crypto)
+#### ☕ Buy me a Coffee (via Crypto)
 
-If this tray app saved you from NetworkManager rage or GNOME VPN madness, consider buying me a digital coffee:
+### ⏱️ Great Scott! A Tip for the Flux Capacitor?
+
+If this tool saved you 1.21 gigawatts of brainpower, feel free to flux me some crypto love:
 
 - **Solana (SOL):** `bc1q2u0n2rdpwz67hgs7felvk380xzumjju4vy7yf6`
 - **Bitcoin (BTC):** `GcS2ZvH4JpZD8hBruEQhQWZCaUVKrerQy8xHwtuXcRoa`
