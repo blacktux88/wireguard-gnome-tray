@@ -27,10 +27,17 @@ Built with Python and GTK3, this tray tool is designed for sysadmins and advance
 
 Install the following packages on your Linux system:
 
-```bash
 sudo apt install \
   network-manager \
   wireguard \
   python3-gi \
   gir1.2-gtk-3.0 \
   gir1.2-appindicator3-0.1
+
+
+### ☕ Buy me a Coffee (via Crypto)
+
+If this tray app saved you from NetworkManager rage or GNOME VPN madness, consider buying me a digital coffee:
+
+- **Solana (SOL):** `bc1q2u0n2rdpwz67hgs7felvk380xzumjju4vy7yf6`
+- **Bitcoin (BTC):** `GcS2ZvH4JpZD8hBruEQhQWZCaUVKrerQy8xHwtuXcRoa`
