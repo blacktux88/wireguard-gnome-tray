@@ -33,7 +33,7 @@ sudo apt install \
   python3-gi \
   gir1.2-gtk-3.0 \
   gir1.2-appindicator3-0.1
-
+---
 
 ## ☕ Buy me a Coffee (via Crypto)
 
