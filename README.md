@@ -20,13 +20,13 @@ Built with Python and GTK3, this tray tool is designed for sysadmins and advance
 
 <img width="568" height="480" alt="Screenshot from 2025-07-16 23-46-01" src="https://github.com/user-attachments/assets/899a0dab-db20-4d56-a954-8e7ae5fc9f5e" />
 
-
 ---
 
-### 🛠️ Requirements
+## 🛠️ Requirements
 
 Install the following packages on your Linux system:
 
+```bash
 sudo apt install \
   network-manager \
   wireguard \
@@ -35,9 +35,9 @@ sudo apt install \
   gir1.2-appindicator3-0.1
 
 
-#### ☕ Buy me a Coffee (via Crypto)
+## ☕ Buy me a Coffee (via Crypto)
 
-### ⏱️ Great Scott! A Tip for the Flux Capacitor?
+ ⏱️ Great Scott! A Tip for the Flux Capacitor?
 
 If this tool saved you 1.21 gigawatts of brainpower, feel free to flux me some crypto love:
 
